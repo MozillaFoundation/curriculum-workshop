@@ -1,4 +1,4 @@
-**Original lives [here](https://docs.google.com/document/d/1FefSUsTG348KjvTRvynLmlw-jz74c_DBHtflcI0EVyo/edit).**
+*Original lives [here](https://docs.google.com/document/d/1FefSUsTG348KjvTRvynLmlw-jz74c_DBHtflcI0EVyo/edit).*
 
 #Mozilla Curriculum Workshop - April 12th, 2016 - Prototyping Doc
 

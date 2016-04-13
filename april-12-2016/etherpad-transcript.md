@@ -1,4 +1,4 @@
-****Original lives [here](https://public.etherpad-mozilla.org/p/curriculum-workshop-april-12-2016).****
+*Original lives [here](https://public.etherpad-mozilla.org/p/curriculum-workshop-april-12-2016).*
 
 **Mozilla Curriculum Workshop**
 **April 12th, 2016**
