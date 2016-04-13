@@ -1,6 +1,6 @@
 **Original lives [here](https://public.etherpad-mozilla.org/p/curriculum-workshop-april-1 *2- *2016).**
 
-**Kristina:** *19:4 *2* Hello, everyone! If you are here early, be sure to type your name in the upper right hand corner so we know who you are! Excited to have you here!
+**Kristina:** *19:42* Hello, everyone! If you are here early, be sure to type your name in the upper right hand corner so we know who you are! Excited to have you here!
 
 **Kristina:** *19:47* Also, as a heads up, you will need yo refresh this page if you come before the live stream starts
 
