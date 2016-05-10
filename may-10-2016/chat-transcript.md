@@ -1,14 +1,14 @@
-**Kristina:** *09* :40* For those joining us early, welcome! Please add your name in the top right box so we know who you are.
+**Kristina:** *09*:40 For those joining us early, welcome! Please add your name in the top right box so we know who you are.
 
-**Amira:** *09* :54* Hello everyone!
+**Amira:** *09:54* Hello everyone!
 
-**Amira:** *09* :54* can't wait to start in 5* mins
+**Amira:** *09:54* can't wait to start in 5* mins
 
-**Kristina:** *09* :55* Hi Amira!
+**Kristina:** *09:55* Hi Amira!
 
-**Amira:** *09* :55* Hello lovely Kristina!
+**Amira:** *09:55* Hello lovely Kristina!
 
-**Amira:** *09* :55* We have lots of unanmed in the pad, hopefully ppl name themselves in the top right corner ;)
+**Amira:** *09:55* We have lots of unanmed in the pad, hopefully ppl name themselves in the top right corner ;)
 
 **Kristina:** *09:55* As a reminder to all, you'll need to refresh this page to see the live stream is you are here before the start time. We'll let you know once we've gone live.
 
