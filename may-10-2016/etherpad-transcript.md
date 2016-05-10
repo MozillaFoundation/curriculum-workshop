@@ -1,3 +1,5 @@
+*Original lives [here](https://public.etherpad-mozilla.org/p/curriculum-workshop-may-10-2016).*
+
 **Mozilla Curriculum Workshop**
 **May 10th, 2016**
 **7 AM PT, 10 AM ET, 11 AM BRT**
