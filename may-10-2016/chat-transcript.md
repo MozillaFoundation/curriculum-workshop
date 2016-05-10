@@ -2,7 +2,7 @@
 
 **Amira:** *09:54* Hello everyone!
 
-**Amira:** *09:54* can't wait to start in 5* mins
+**Amira:** *09:54* can't wait to start in 5 mins
 
 **Kristina:** *09:55* Hi Amira!
 
