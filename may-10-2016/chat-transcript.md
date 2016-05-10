@@ -1,6 +1,6 @@
 *Original lives [here](https://public.etherpad-mozilla.org/p/curriculum-workshop-may-10-2016).*
 
-**Kristina:** *09:40 For those joining us early, welcome! Please add your name in the top right box so we know who you are.
+**Kristina:** *09:40* For those joining us early, welcome! Please add your name in the top right box so we know who you are.
 
 **Amira:** *09:54* Hello everyone!
 
