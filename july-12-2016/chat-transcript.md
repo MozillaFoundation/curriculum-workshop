@@ -124,7 +124,7 @@
 
 **chadsansing** *10:48* What does it mean to "find yourself" online?
 
-**Amira:** *10:48v so deep
+**Amira:** *10:48* so deep
 
 **Sam D:** *10:49* That's a nice activity idea: "find yourself online."
 
