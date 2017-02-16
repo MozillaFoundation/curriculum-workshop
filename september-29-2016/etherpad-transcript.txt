@@ -1,0 +1,278 @@
+Mozilla Curriculum Workshop
+
+Maker Party & Copyright
+
+Thursday, September 29th, 2016
+7am PT/10am ET/2 pm UTC
+
+Join us for the live stream on our YouTube Channel: http://mzl.la/1WB1rCU
+Please add your name to the box in the upper right ---->
+This makes it easier to join the discussion
+
+Welcome to Etherpad, a synchronized pad for notetaking and collaboration. You can see the call agenda BELOW. Add comments in this window or in the chat on the BOTTOM RIGHT. You can PICK THE COLOR FOR YOUR TEXT and ADD YOUR NAME in the top right. Feel free to jump into the conversation below and add comments/notes wherever you want or ask questions to other participants in the chat. You can also add a +1 next to someone else's comment to show that you "like" it.
+
+LIVE LINK: https://www.youtube.com/watch?v=uIh91sa4K4k <-- JOIN US HERE
+
+Please also add your name and info to the Roll Call below!
+
+Roll Call (Name/ Where are you local / Twitter handle):
+
+    Shadab Hussain <Allahabad,India> @shadabhusain786 Pate
+
+    Museb Khalid /Sialkot pakistan/@Museb_Khalid
+
+    Rajiv Kumar Jha / <New Delhi, India> @rjrajivjha
+
+    Amira / NYC / @amirad
+
+    Kristina / San Diego, CA / @MozLearn
+
+     Greg East Haddam/ Ct (lurking really...but the copyright law is garbage) peekaboo nutmegger in the house! haStill need to get to Dumbo to say hello Amira.:)
+
+     Chad / Central Virginia / @chadsansing
+
+     Coretta Jackson, MBA  / Atlanta, Georgia  / @CorettaJackson / @CoachLearning 
+
+     Liz Hull / Norfolk, VA / @lizmhull
+
+    Mark Shillitoe/ Switzerland @markshillitoe
+
+     Christie Bahlai/ Lansing, MI/ @cbahlai *waves* Christie!
+
+     Paul Oh/ Oakland, CA/ @poh
+
+     Kenyatta /Chicago/ kenyatta_forbes
+
+    Jen Caltrider / Colorado /@caltrider
+
+    Brenda Hernandez | Chicago | @tactilenotes
+
+    Rizwan Tufail | Toronto
+
+    Meghan, BK NYC
+
+    Aurelia Moser, NYC, @auremoser Hi Aure!
+
+    Julia Vallera, NYC/Vermont @colorwheelz
+
+    Renee Hobbs, University of Rhode Island USA
+
+    Shreyas /India/ @dun3buggi3
+
+    Steph / Seattle / @shefw
+
+    David Ross / London / @sw1ayfe
+
+    Hannah / Portland, OR / @hannahkane
+
+    Iris Bond Gill / Raleigh, NC 
+
+    Randy Macdonald/@ia_taof/randy@taof.org/Innovation Academy-InnovateOregon
+
+    Gašper Deržanič / Slovenia / GapsoNtm
+
+    Karen LaBonte/Yorktown Hts NY/@klbz
+
+    Mehul Patel/ India/ @rowdymehul
+
+    Maruf Rahman / Dhaka , Bangladesh / @iam_mmr_
+
+
+Maker Party & Copyright
+
+    1. 10:00 AM - 10:10 AM ET - Introductions to the show, our on-air participants, and their work.
+
+    Read more about copyright reform in the EU, happening now!
+
+    Blog post:  https://blog.mozilla.org/blog/2016/08/24/eu-copyright-law-undermines-innovation-and-creativity-on-the-internet-mozilla-is-fighting-for-reform/ and https://blog.mozilla.org/blog/2016/09/14/commission-proposal-to-reform-copyright-is-inadequate/ 
+
+    Video and petition: https://www.changecopyright.org/?locale=en_gb
+
+    For more information on copyright, the Commission' proposal and more, see this series of videos from our friends at C4C: https://www.youtube.com/channel/UCqIxBYe-_0ubkx3LlyyNPhA
+
+    Guests
+
+    Christie Bahlai, cbahlai@msu.edu, https://practicaldatamanagement.wordpress.com/, @cbahlai, an insect ecologist who works on combining big data with open science to build sustainable agriculture systems and Mozilla Science Lab fellow alumna
+
+    link to course materials https://cbahlai.github.io/rqm-template/
+
+    Philip Harney, philip@coderdojo.org, https://coderdojo.com, @PhilipHarney, Technical & Educational Content Lead, Coder Dojo say hello to my friends in CoderDojo Erode
+
+    Mark Shilltoe, markshillitoe@gmail.com, https://about.me/markshillitoe, @markshillitoe, Director of Digital Learning & Media, Gems World Academy
+
+    You can learn more about Mark and his work from our community spotlight article: https://blog.webmaker.org/community-spotlight-mark-shillitoe
+
+
+    2. 10:10 - 10:20 AM ET - Questions & Answers
+
+     What is copyright like where you live and work? How does 'working open' or using open licenses look where you are?
+
+    Christie: From university POV in western academia, published work in journals is main work but you essentially give away copyright once you publish. It is rare that a scientist retains the copyright on their work after publication.
+
+    Mark: It's legal to stream copyrighted content in Switzerland but that is unique from the rest of the EU. How do you retain the copyright info of what you produce? Right now, school has copyright of student production, so they can't take it with them after they leave. Could help get a job in the future but right now students don't have access
+
+    Phillip: Ireland copyright is similar to US. Software is on github. Only has to worry about copyright when finding great content from a community member and needs permission to share on main website
+
+    geoblocking: Licensing agreements with TV services, for example, can get really messy and is quite a bit different in various countries
+
+    driving 2 hours can mean getting to watch some content that you can't in other areas (US vs Canada ex)
+
+    Academics depend on the subscriptions of the university which can be limiting depending on the agreements set up with the larger orgs/companies who control services
+
+     What obstacles does copyright present to you in your work as an educator?
+
+    "Just because you love it doesn't mean you own it" - Philip
+
+    "Teaching copyright is a way to understand your place in the community." - Christie
+
+    MM: A Hive NYC member recently had their final youth-produced videos taken down from YouTube because of music (despite Fair Use and critical commentary), mangling a public campaign for the programs linked to the videos. Took time, labor, and battles to get re-upped online. They had a very clear Fair Use case, but the digital millenium copyright act and its application has a chilling effect on media programs and educators making better use of available content, for ex. This has happened a bunch and is the worst! Nothing like being so excited to produce something and get it taken down. Totally destructive to the fun of making +1
+
+    (philip) what happens when someone published a great piece online and you need to track that person down to try and share or use their work
+
+    Question for Mark: What happens if the students take the projects with them after leaving the school? Does the school not allow use from the students? ideally, students should use as part of a portfolio of featured work!Most schools do not. Students often do not own their data. so many issues here; I want to unpack them all - nice job audience + guests! big difference between "data" and products or evidence of work that they make, esp in collaboration with others. Data is a whole other question
+
+    Mark: Students should be able to access anything at anytime/anywhere and will not buy into the large orgs controlling access - but they currently do
+
+    Phillip: Publishing students websites may be breaking copyright laws, which means they can't publish without tweaking the content they love and want to include. Just because you love it doesn't mean you own it!I am confused to your meaning, that student websites are copyright violations
+
+    The kids sometimes take a lot of music, images etc. from their favourite bands, games etc. when building their website because they want to talk about what they love. They don't mean an harm and the HTML/CSS etc. isn't any sort of violation, but they've covered it in content that is noted as copyrighted on the websites they got it from etc. If they want to share their website online then they should think about that.
+
+    I have run into situations where educators are hesitatnt to create open products for fear that someone else will use for profit and so they then question whether they should use for profit themselves. the economic implications of copyright are something that needs attention or at least I would like to hear how people convince people to create openly.....Different for each districts (US centric) in terms of who owns content teachers make while on the job. My gut reaction is just a CC-BY-NC license...or the realization that sharing is awesome and open is a state of mind rather than a license....The biggest .st issue is people rarely want yoru stuff...I am trying to get educators to realize that many GAFE districts they will lose content when they leave..
+
+    Christie: Where are you trying to publish? What are your university regulations? There are many things that play into guidelines so it isn't always a cut and paste answer for academics, which is frustratingI put in my tenrue file that the help in developing Thimble, web literacy map, and learnign activities should count as creative works...didn't go over too well...but I put my tenure file online https://medium.com/the-binder
+
+    How do you help learners understand topics like copyright, open licensing, and the commons or public domain?
+
+    Renee: The concept of "transformative use" is vital to explain to students. Students can appreciate that all creative work builds upon prior work. When they think about the creative process as not just re-transmitting other people's stuff, but creating remix products needs to be able to claim: (1) that you used just the amount you need, and (2) that your use of the copyrighted content added value by re-purposing the original content. More details on teaching about copyright and fair use: 
+
+    http://mediaeducationlab.com/copyright+1 Renee's teachign materials are great in this area (Thanks!)
+
+    My personal favorite is our music video on fair use: http://mediaeducationlab.com/music-video-users-rights-section-107
+
+    Mark - be facilitators/coaches of where to look to create and share work in the open; how to model it in teaching materials? Resources for password creation is great ex
+
+
+    I use Chad's curriculum on fair share https://chadsansing.github.io/curriculum-testing/curriculum-migration/web-lit-basics-two-migrated/session05-fair-use-free-for-all.html#overview  :)
+
+    Phillip: other people's code still needs to be open source and will still need to make sure licensing states you are OK to use as-is. Some code is not open source!
+
+    My experience is that there is a lot of copyright confusion about educators in both Europe and the USA -- webinars like this one are an important part of the professional development of educators
+
+    Questions from our audience:
+
+     Do you think that educators/facilitators/mentors should be responsible to teach copyright, open licensing along with digital skills?Yes
+
+     
+
+     
+
+
+    3. 10:20 - 10:25 AM ET - Deciding on a project (or projects) we can prototype together. What will help our learners understand copyright/open licensing as they create their own work?
+
+     x ray goggles style approach where you can hover over websites, your own websites that highlight material that is open source or the creative commons licence. ooo <-- Great idea+1, love this one+1+1+1 
+
+    To add a point to above statement, that can be called VR Shops or VR websites which can actually view the object!
+
+    Lots of my students use Instagram or Fbook to share art sketches and prototypes (I teach art students), so one exercise I usually have them do is diagram the terms of service of those "hosts", often they claim IP of images which is tantamount to owning an implemenation of the art work; this is frustrating for them. There's also an extension in Firefox/Chrome for alerting you to TOS changes in social platforms when you load the page, I suggest they install that.+1
+
+     Renee: Online dialogic reasoning tool to develop people's skills in making a fair use determination+1
+
+    blog https://www.youtube.com/watch?v=Sx-plPMI5tU I always mention attirbution in blogging tutorials: )
+
+    A guide for students to read before they make a project....something like "hey do you want to share this project after you've created it? Here's what you need to know."   +1+1+1+1+1+1
+
+    This is already done by @cogdog: https://thimbleprojects.org/cogdog/89380/  super cool resource thanks!
+
+    I think there is already one activity
+
+    nice pipeline for educators into Mozilla's Open leadership Training!
+
+     Primer on creative commons licences, explain how to use, etc+1+1
+
+    Renee: A tutorial on the differences between various licensing schemes and fair use+1
+
+    Best practice tip from Mark: create accounts using own personal address (even as student) so you are automatically the owner and can take the work with you when you move on/around+1+1+1 but not sure how to prototype this...just a post for educators?
+
+    A list and desc of common open source licensesMaybe in the form of a table with check/cross to compare+1
+
+    Alan Levine is working with Creative Commons to develop a certificate and training program. Will fill huge void Yes, something that informs them along the creation path Crazy+1 +1 @cogdog FTW!
+
+    I have an awesome (barely new CSS) CC tutorial about images and hover states but its stuck in old Thimble...migration....still waiting./....grrrrr
+
+    https://jgmac1106.makes.org/thimble/LTIyMTM4MDM1Mg==/making-a-creative-commons-image-overlay_ didn't know layout stuff yet..this was when I was just learning CC)
+
+    I also made a CC matching game in old Thimble-"find an image of a dog you can legally use and remix: https://thimbleprojects.org/jgmac1106/108535/
+
+
+    4. 10:25 - 10:50 AM ET - Sprinting on prototypes and projects: Guide on "hey do you want to share this project  (great title) [so people can remix it] after you've created it? Here's what you need to know."  important to make distinct from outreach or PR, which many young people/media projects need
+
+    Working open for youth and learners: How to begin with openness and ownership in mind
+
+     Questions to consider
+
+    What is "open?" What does it mean to work open or put something under an open licenses?
+
+    What are open licenses I can use where I live?
+
+     Do I want to have my project open?
+
+    Pros:
+
+    Help others learn
+
+    Collaboration & community formation?
+
+    Lots of other open projects willing to help you out!
+
+    Cons:
+
+    Maybe harder to make money from it? Maybe not though -> Support and tutorial based models, etc.
+
+    Less control over what people ultimately do with your work, but licensing can mitigate
+
+     Who is the audience for my project?Review or overt instruction in the basics of rhetoric become more critical-- perhaps a small infographic w/activities? 
+
+      Qu's for learners- Audience??? e.g. You're making a cool animation- who are you making it for/do you want to share it/are you happy if someone shares it?
+
+    How can you go about licencing your work? Why would you go about this?
+
+    Can you look at this from other perspectives- e.g. A theatre production
+
+    Using a social media platform as Instagram, as in the example above comparing to a platform like EyeEm where all photographers own and can sell their images as an artist! Cmparing this with traditional art work-e.g. an oil painting, a self portrait.
+
+    Publish as open resource straight away, as created.
+
+     How do you want your work to be used? Do you want to control that?  Where to find examples of the kind of control I can have? https://creativecommons.org/licenses/ etc.
+
+    Also teacher training resources for newbies entering the teaching world
+
+
+     Steps to folow
+
+
+    Find an open platform to begin making something + resource list? A "magazine" with video, teacher interviews & examples, student projects with examples....Also stressing the importance of openness as a vital & cornerstone of freedom
+
+    Used free-sharing images and media 
+
+     Share open early in the project — Seeing that kind of early itterative development of any project, even from pros, can be really useful in learning not just about results but method
+
+     Learn out loud 
+
+
+    5. 10:50 AM - 11:00 PM ET - Sharing prototypes and reflections on the sprint.
+
+    
+    6. 11:00 PM ET - Final thoughts, ways to keep in touch, and good-byes.
+
+More Questions from audience members
+
+===============================================
+MARK YOUR CALENDARS - UPCOMING MOZILLA EVENTS
+===============================================
+
+Write a Letter to the Next President: Join the National Writing Project's campaign to help young people speak to the next President of the United States. Remix these projects contributed by Mozilla https://mzl.la/2nextprez and check out the submissions platform here. https://letters2president.org/
+
+OCTOBER ADA LOVELACE DAY EVENTS! https://blog.webmaker.org/celebrating-ada-lovelace-day-women-in-stem 
+Mozilla Curriculum workshop: Ada Lovelace Day, Tuesday, October 11 6am PT/9am ET/1pm UTC
+Mozilla Community Call: Thursday, October 13 8am PT / 11 am EST / 4 pm GMT
+#TTWchat: October 19 9am PT/ 12pm ET/4pm UTC Hosted by @MozLearn & @MozillaScience

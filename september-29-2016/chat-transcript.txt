@@ -1,0 +1,201 @@
+Amira:09:53 Thanks Raegan! Super helpful
+
+Christie:09:53 Good morning!
+
+Greg:09:54 assuming the medium articles were cross posted? That is what I read
+
+Amira:10:03 We'reeeee live
+
+Coretta :10:04 Listening/Watching : )
+
+Amira:10:04 wonderful
+
+Amira:10:04 Here's the live link for all others http://www.youtube.com/channel/UC64W_SqCxhcTUwVpuSQWjEg/live
+
+Greg:10:04 didn't want to install/activate adsense? A privacy issue?
+
+Coretta :10:04 https://www.youtube.com/watch?v=uIh91sa4K4k Live!
+
+Coretta :10:09 LOL!
+
+Julia:10:10 haha @philip
+
+Amira:10:11 More info on mozfest: https://mozillafestival.org/
+
+steve:10:19 hi
+
+Kristina:10:19 Hi Steve! Thanks for joining.
+
+steve:10:21 your welcome. I'm watching YouTube too
+
+chadsansing:10:22 Friends in green at the top of this chat roll, please add your name next to your color square so we know who might ask or suggest what :)
+
+Greg:10:23 Hey Renee
+
+Greg:10:23 Glad to see you on the call
+
+dunebuggie:10:24 Hey everyone! *waves at youtube*
+
+Kristina:10:24 Hi Shreyas!
+
+Greg:10:24 Shreyas! Glad to see you
+
+Kristina:10:25 reminder: live link is here: https://www.youtube.com/watch?v=uIh91sa4K4k
+
+chadsansing:10:25 Hello!
+
+Paul:10:25 Great to see you here, Renee. And you, Greg!
+
+dunebuggie:10:26 Talking about copyright, here's something that happened in india recently: http://scroll.in/latest/816651/delhi-court-allows-du-shop-to-photocopy-textbooks-saying-copyright-is-not-a-divine-right
+
+Greg:10:27 all offices=dungeons
+
+Greg:10:27 some are just prettier holes
+
+chadsansing:10:27 LOL.
+
+Coretta :10:29 LOL
+
+chadsansing:10:34 Audience members - nice jon in the etherpad! Don't forget to open the video link to watch, as well :)
+
+Amira:10:36 yes! and ask questions?
+
+Greg:10:36 Renee I should go aout and see you inJulie, URI is close to my corner of CT
+
+unnamed:10:42 happy to have you up for coffee and conversioan
+
+Christie:10:43 CC-BY is my BFF
+
+Amira:10:43 ^ ha!
+
+chadsansing:10:46 @Christie - a few of my faves on related matters: http://nowviskie.org/2011/why-oh-why-cc-by/
+
+chadsansing:10:46 http://nowviskie.org/2010/fight-club-soap/
+
+Kristina:10:48 We need a tie breaker!
+
+Coretta :10:48 Guide or goggles
+
+Greg:10:50 or its in an lms and students lose access immediatley
+
+Greg:10:50 or students lose materials behind lms as soon as class is over
+
+Amira:10:50 I think it's more the former in this case
+
+Kristina:10:50 Prototyping on line 110 - join in!
+
+Randy Macdonald:10:51 +1 on the licensing tag :-)
+
+Coretta :10:54 Delivered online via videos/animated
+
+Coretta :10:54 Delivered in small groups in person
+
+Amira:10:54 That would be fun to watch!
+
+Randy Macdonald:10:55 When is the right time to share? At what point in a project?
+
+Coretta :10:56 Will do!
+
+Amira:10:56 @randy at the beginning
+
+Karen:10:57 This may already exist, but is there is a curated and well organized wiki or other publication that brings basic info/questions together?
+
+chadsansing:10:57 We should look for this! I like the Creative Commons site, too -
+
+Karen:10:57 Do we need to make one?
+
+Amira:10:58 I like the way you think Karen
+
+Karen:10:58 :-)
+
+Kristina:10:59 Great call everyone! Thanks for joining!
+
+Coretta :10:59 Yes! I'll share this Oct. info
+
+chadsansing:10:59 Thank you so much, everyone! You made this a great episode.
+
+Coretta :11:00 This has been great. still getting used to Etherpad : )
+
+Randy Macdonald:11:00 I agree that sharing works best at beginning, but I worry that students might be overwhelmed in the beginning with outside feedback
+
+Greg:11:01 In my expericne: the feedback doesn't come and b if it does students are stoked
+
+Coretta :11:01 Awesom Phillip!
+
+Randy Macdonald:11:01 Great point Greg.
+
+Amira:11:02 More info on coderdojo: https://coderdojo.com/
+
+Brenda:11:02 thank you Chad & Amira for a great and insightful conversation
+
+Randy Macdonald:11:02 Good point Amira, we need to model good practice to our students.
+
+chadsansing:11:02 @Brenda - too kind! Guests and audience carried the day as usual - so grateful :)
+
+Coretta :11:03 Thanks to Amira ,Chad & all speakers!
+
+Christie:11:03 https://cbahlai.github.io/rqm-template/
+
+Christie:11:04 Thanks all! Great chatting with you!
+
+Randy Macdonald:11:04 Love to see this guide come to fruition. Is there a plan to host a working version somewhere?
+
+Mark Shillitoe:11:04 Thanks everyone
+
+Greg:11:05 lets make a creative commons teaching kits
+
+Amira:11:05 Thank you!
+
+Amira:11:05 See everyone next month :)
+
+Randy Macdonald:11:06 Great workshop, thanks all. :-)
+
+Greg:11:06 these quick prototypes should be the brainstorming for the stuff the community would work on for a month and then review.
+
+Karen:11:06 Where & how do we take next steps on a resource thingie?
+
+Dhruv:11:06 Hii just missed the session!
+
+chadsansing:11:07 Let's talk format sometime soon, @Greg & other interested people. Fostering a long-tail of making from these brainstorms is a goal we're still working towards. Looking forward to the guide w/ Code Dojp, as well, @Philip!
+
+Amira:11:07 Perhaps drop more comments in the pad. And if you're interested in collaborating on resources, chad and philip might be creating something
+
+Karen:11:07 Chad, I'm interested in resource-making
+
+Coretta :11:08 I'd like to help...
+
+Greg:11:08 aagree Karen we use the synch calls, but then we fit in a protype in the first sprint of the month, a revision in second sprint, and then share on next call
+
+Greg:11:09 or heartbeat, I can nenevr remeber the difference
+
+Greg:11:10 I was talking to @soapdog, and we thought videos inthe "plain english genre" would be great because audio could be stripped . easy for l10n
+
+Karen:11:10 Love that idea
+
+steve:11:11 Thanks for all the insight concerning copyrights and education. Looking forward to seeing any guides or other resources coming from this. Also feel free to contact me if you want any reviewers.
+
+Greg:11:11 Hey Hannah, didn't see you drop in
+
+Karen:11:11 @Greg would be great to have kids/teachers work on that
+
+steve:11:11 unnamed===steve
+
+Greg:11:11 Agree, its so paper based, low tech a great intro video genre
+
+Mehul:11:11 Hey,
+
+Greg:11:14 from teh start learn out loud
+
+Greg:11:14 Hey Amira could we make an open course using teachable? that could be an idea
+
+chadsansing:11:15 Okay - let's set up a time for follow up. In the interest of privacy for everyone, please email me at chad at mozillafoundation dot org or send me a DM on twitter with your preferred contact info. Sound okay? I'll start looking at our open science and leadership resources, as well.
+
+Mehul:11:15 What if anyone wants to share their story and need any help so how they can communicate ?
+
+Greg:11:19 or something
+
+Greg:11:19 @chadsasing been working on the open leadership curriculum on the other participation side as well...trying to bring projects together.
+
+Greg:11:20 https://certificates.creativecommons.org/2016/09/dna/
+
+Museb:12:04 Hi every one

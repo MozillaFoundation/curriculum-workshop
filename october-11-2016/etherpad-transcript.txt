@@ -1,0 +1,334 @@
+Mozilla Curriculum Workshop
+
+Ada Lovelace Day
+
+Tuesday, October 11th, 2016
+6 AM PT/9 AM ET/1 pm UTC
+
+Join us for the live stream on Air Mozilla: https://air.mozilla.org/mozilla-curriculum-workshop-ada-lovelace-day-2016-10-11/ . This is a change - we will not be live-streaming today's webcast on YouTube.
+
+Please add your name to the box in the upper right ---->
+This makes it easier to join the discussion
+
+Welcome to Etherpad, a synchronized pad for notetaking and collaboration. You can see the call agenda BELOW. Add comments in this window or in the chat on the BOTTOM RIGHT. You can PICK THE COLOR FOR YOUR TEXT and ADD YOUR NAME in the top right. Feel free to jump into the conversation below and add comments/notes wherever you want or ask questions to other participants in the chat. You can also add a +1 next to someone else's comment to show that you "like" it.
+
+Please also add your name and info to the Roll Call below!
+
+Roll Call (Name/ Where are you local / Twitter handle):
+
+     Amira / NYC/ @amirad
+
+     Chad / Central VA / @chadsansing
+
+     Danielle / Portland OR / @daniellecrobins
+
+     June/ NYC/ @ahnjune
+
+     Rosa/ Currently Serbia, Normally Ireland/ @RosaLanghammer
+
+     Liza /México / @tedeframbuesa
+
+     Kristina / San Diego CA / @MozLearn
+
+    Zannah / Mozilla Science
+
+     Paul / Oakland CA / @poh
+
+     Julia / Brooklyn&Vermont / @colorwheelz
+
+     Cristol/ Chattanooga, TN / @mrs_kapp
+
+     Juma /Gambia/ @TechAngelGirl
+
+
+Ada Lovelace Day
+
+    1. 9:00 AM - 9:10 AM ET - Introductions to the show, our on-air participants, and their work.
+
+     Liza D. Platae
+
+    Liza is part of the the community of Mozilla México as club captain and Womoz contributor. 
+
+    Social Champion for Mozilla and really passionate about web literacy and helping other women get involved into safe spaces in tech. 
+
+    Her job is about innovating in México projects related with smart governance and women in tech education/content programs inside NGOs and corporations.  
+
+    Danielle Robinson
+
+    A cell biologist and Neuroscience PhD candidate at Oregon Health and Science University passionate about improving reproducibility and digital literacy in the sciences. She studies the role of phosphoinositide signaling in myelination in her dissertation project, collects terabytes of microscopy data, loves fancy microscopes, and enjoys policy work. She co-organizes Open Insight PDX, which seeks to build skills that enhance research reproducibility and facilitate discussion of issues surrounding publishing, data sharing, and copyright. She is a founding member of Women in Science Portland and an organizer for Science Hack Day Portland.
+
+    Learn more about Danielle and her work in the Mozilla Learning coommunity spotlight this month: https://learning.mozilla.org/blog/community-spotlight-danielle-robinson
+
+    Zannah Marsh
+
+    I'm a Learning Strategist for Mozilla, working with the Science Lab program. I research, design and develop instructional materials and experiences. Prior to joining Mozilla I worked as a content developer and experience designer for museums and cultural centers, producing interactive exhibits. 
+
+
+    Workshop format for Ada Lovelace Day themed curriculum: https://github.com/mozillascience/curriculum-design-workshop
+
+    Products from the workshop at Libre Learn Lab, more to come: https://github.com/mozillascience/curriculum-design-workshop/tree/master/products
+
+    Ways to help out and get involved: https://github.com/mozillascience/curriculum-design-workshop/issues
+
+     June Ahn
+
+    Associate Professor of Learning Sciences/Educational Technology, New York University, Steinhardt School of Culture, Education, and Human Development.
+
+    http://ahnjune.com/
+
+    http://steinhardt.nyu.edu/faculty/June_Ahn
+
+    Join our ARG! http://thetessera.org/
+
+
+    2.91:10 - 9:20 AM ET - Questions & Answers
+
+     Who do you look up to as a woman pioneer in science from the past? Who do you look to now as a role model?
+
+    Ada Lovelace
+
+    Grace Hopper  - does she count as a scientist?
+
+    Cady Coleman - Astronaut and inspiring teacher https://en.wikipedia.org/wiki/Catherine_Coleman
+
+    Chad: Limor Fried and Leah Buechley both shaped my teaching in the classroom invaluably.
+
+    https://en.wikipedia.org/wiki/Limor_Fried
+
+    https://en.wikipedia.org/wiki/Leah_Buechley
+
+     Hedy Lamarr, glam flim actress and inventor, worked on communications tech during WW2, the basis for today's wifi
+
+    Currently really inspired by the many women astronauts: http://www.glamour.com/story/nasa-women-astronauts-first-trip-to-mars 
+
+    Carol Shaw: https://en.wikipedia.org/wiki/Carol_Shaw_(video_game_designer)
+
+    Ada Lovelace
+
+
+     What do you think are pathways or entry points to STEM-related fields that should be in place for all young women and girls? How can we help make them accessible?
+
+     Shared family science experience 
+
+     Science center field trips - varied, hands on activities providing entry points for lots of different kinds of learners
+
+     Family STEAM Nights/community events
+
+    Flubber
+
+    Chad: I want web flubber.
+
+    MaKey Makey - https://twitter.com/daniellecrobins/status/784842547742986240
+
+    3D printers
+
+    Hack space - informal entry point - see people in action
+
+    Drop-in
+
+    Makerspaces w/ access to a wide variety of resources. 
+
+    Intersecting hobbies and interests with Science can hook girls for science 
+
+    Finding ways to link hobbies in our everyday interests to science 
+
+    June: "affirm that students are doing great science, even when they are not realizing they are"
+
+     How did you get where you are today? What was your journey like (who helped you, what entry point did you take advantage of, what challenges did you face)?
+
+     TEACHERS! I realized that the teachers who I found inspiring were a big cause of the courses/fields I loved 
+
+    Community college! I was inspired to get into research by inspiringfaculty at Laguardia Community College CUNY NYC!
+
+     My internet friends! They encouraged me a lot keep learning because they helped me believe I can do great things
+
+     
+
+    Do you have any favorite Ada Lovelace Day blog posts that you've written or read? Teaching and learning resources? If so, where can we find them?
+
+     Resource: A new alternate reality game focused on computational thinking, featuring Ada Lovelace: http://thetessera.org/ SOOOOO COOOL! +1 Does it launch later this month? YES! :-) Science & Villians?!?! Awesome! Can you play it online only without the in person experience?Yes, you can play just online. They are separate games but go together if you have the opportunity to go to the museum. But the museum is not required, online only works as well.
+
+    Alternate Reality Game - ARG - https://en.wikipedia.org/wiki/Alternate_reality_game
+
+    Computer History Museum - https://en.wikipedia.org/wiki/Computer_History_Museum
+
+    Here's that workshop format: https://github.com/mozillascience/curriculum-design-workshop 
+
+    plus one of the resources that we created using it: instructions to create a Climate Almanac: https://github.com/mozillascience/curriculum-design-workshop/blob/master/products/climate-almanac.md
+
+    Ada Lovelace Poetry Generator: https://www.raspberrypi.org/magpi/ada-poetry-generator/
+
+    A teen introduction to Ada Lovelace: http://hellogiggles.com/ada-lovelace-forgotten-godmother-modern-technology/
+
+    The Future of STEM is inclusive, a report by YWCA in NYC https://www.ywcanyc.org/wp-content/uploads/2016/02/FutureOfSTEM-Publication.pdf
+
+     Questions from our audience:
+
+    Do you have any recommendations for books, podcasts or movies about gender equality/women in tech/education? looking for some new reads ;)
+
+    https://portraitofthescientist.wordpress.com/ <- blog from anonymous women in science+1
+
+    Call your girlfriend http://www.callyourgirlfriend.com/  is a fun one+1
+
+
+    Has anyone got top tips for attracting and retaining girls in STEM - particularly teenagers!!? Specifically in computer programming- where we are operating.
+
+    Connect with larger networks like WomenWhoCode and ChickTech, building a supportive network is key! In My city PyLadies also runs super friendly CLI bootcamp, python basics, etc, in a women-only environment <- a great way to meet mentors in the field! +1 getting them involved or introducing them to local groups that support girls in STEM. OR creating your own locally.
+
+
+     Mentors! Providing and continuously showing them more mentors in different fields who can answers questions they have . +1 for Mentors!+1
+
+    I think we can organize events with themes related to current hobbies of girls to get attracted, show them the kind of tools they can use and prototype: magazines, videogames, apps, characters, robots, DIY material with science, etc. Also get a long with mentors guiding them trough this path of prototyping
+
+    MIT App inventor: http://appinventor.mit.edu/explore/ This is a fun intro!
+
+    bubblesort zines http://bubblesort-zines.myshopify.com/ Awesome - writing a guide for our volunteers so the talks sound great :)
+
+    https://www.alterconf.com/speakers/amy-wibowo  <- talk is called coding like a girl! I think it's important not to de-feminize things, if the teen girls are identifying with cute/fun things, they can do that and also be amazing coders
+
+
+
+    3. 9:20 - 9:25 AM ET - Deciding on a project (or projects) we can prototype together. 
+
+    I'd be interested in creating some experience or lesson that helps learners connect everyday skills or activities with science skills+1+1+1+1 like how arts and crafts relate to science (quilts, knitting, etc.)
+
+    I also think it would be cool and probably challenging to create materials about how we understand time: scope, scale, how we observe and record: from geologic time to everyday time to cosmic time  (could include time lapse photo stuff, stop motion animation, etc)
+
+    Internet flubber+1 what is flubber?+1
+
+    Flubber - http://www.livecrafteat.com/craft/homemade-flubber-for-kids/
+
+    Conversation-starters?
+
+     Get Started Guide for inspiring young girls/women to get involved in Science for the 1st time   
+
+    resources list
+
+     Community event kit?+1 +1
+
+    Women in STEM club or badges or something fun we can learn about each other with.+1
+
+
+
+    4. 9:25 - 9:50 AM ET - Sprinting on prototypes and projects: 
+
+    BIG IDEA: Experiences that connect everyday life and science
+
+    You can connect an activity that lots of kids do: collecting toys, baseball cards or stickers, pokemon creatures, etc: to the kind of collecting and classifying that scientists do (I had a shell collection when I was little that I spent tons of time organizing, but I never made the connection between features and species and environmental conditions that the shell came from)
+
+    Very cool - like a nomenclature, sorting, algorithmic set of activities? yeah! 
+
+    Awesome. What would a set of steps or instructions be (super lightweight) for sotrting in different ways or pattern-hunting? What would you ask a learner to do first?
+
+    STEPS:
+
+    Take your collection out and spread it out so you can see everything you have at once
+
+    Take one item and examine it:
+
+    what kinds of things can you observe about it (shape, color, size, markings, etc)-- these are features
+
+    make a list of common features in your collection
+
+    begin to arrange or organize your collection by a single feature
+
+    are their some items that have unique features? what makes some items seem more similar to others?
+
+    Other kinds of experiments to run on sets? 
+
+    DATA SETS FOR ALL.
+
+     You can also take your collection and experiment with visualizing it-- mapping or graphing it by features.+1+1
+
+    maybe some kind of online or interactive data collection? to introduce the idea of a scientific community around the world?
+
+    Collecting data in their neighborhood and adding to a larger web-based project
+
+    weather data
+
+    plant data - post picture of plants described as weeds - what is a weed aroudn the world?
+
+    data about their school
+
+    Breakfast data - what is breakfast in their family
+
+    virtual breaking bread & data collection w/ ppl around the world sounds awesome<-YES
+
+    Favorite toy
+
+    Bird Data-http://content.yardmap.org/learn/2016_gbbc/+1
+
+     A Brainstorm: An activity structure for parents and young children: (great set of prompts)
+
+    Do an activity together (e.g., go to the zoo, pick up leaves on a walk around the block, play a video game together)
+
+    Read Leaf Man, collect leaves, create a collage, try to identify the trees. +1
+
+    Have a chat about the experience -- what did we like? what was fun? what did we notice/observe? why was it cool? what do we think happened/was happening? why do we think that happened or did not happen? What questions do we have?
+
+    Like a reverse-engineering conversation about something that happened or was made?
+
+    Do a craft or art project or any kind of maker project, making something from the experience - Make! Express! Tell a story! +1
+
+    Is there a template or frame you'd use? Could we make one on our code editor (Thimble, https://thimble.mozilla.org ) that people can remix for their outings. collections, etc? I think this is a wonderful idea
+
+    Look up information about the questions we still have together, online. Find info together to learn content knowledge.
+
+    Link the experience to literacy -- e.g., maybe talk about a key word in the experience and practice spelling the word  +1
+
+    Ask the children what other things they are now wondering about... think about a new experience to jumpstart that new interest
+
+     Activities that highlight observation and questioning
+
+    Great connection to some of the suggestions above - hack there, too?
+
+    I've seen lots of projects that create art or build things based on math and science principles - for example, making playing cards based on the periodical table or sewing mathematical equations into fabric. 
+
+    I saw a periodic table battleship type game. http://teachbesideme.com/periodic-table-battleship/ cool! 
+
+    Yes - I've seen similar work with bead patterns on jewelry. Any favorite links or steps you'd suggest?Looking for some online, but just saw this pretty article about the relationship between art, math and science https://medium.com/@sailorhg/art-and-math-and-science-oh-my-f1dc4ebb3223#.40xikjmzc so good! + art <3 it
+
+    Also, here are a bunch of cool activities for kids http://www.whatdowedoallday.com/2015/07/explore-and-create-science-art-projects.html
+
+    Wasn't able to attend, but in my city there was a Maker Faire that brought people across the city together to share their projects. Really cool way to learn about new things and also inspire others: http://sandiego.makerfaire.com/ +1+1
+
+    Here in Mexico we do Maker Labs with fun activities related with easy DIY projects
+
+    http://dollarstorecrafts.com/2015/05/tutorial-diy-geodes/ i love geodes 
+
+    https://gosciencegirls.com/glowing-ice-cubes-edible-sensory-science-play/
+
+    https://gosciencegirls.com/fluorescent-slime/ This is like flubber yes!
+
+    The hardest thing for Science Hack Day was getting people to understand the point of an interdisciplinary event and take it seriously. ONce people were on board, it totally worked. +1 Having the serious scientitsts and engineers there was critical, but plenty of people who would have been great didn't come because they didn't get it, or wrote it off as "outreach" but whatever, we got 100 people :)
+
+
+    5. 9:50 AM - 9:00 PM ET - Sharing prototypes and reflections on the sprint.
+
+     See above - great ideas!
+
+    6. 10:00 PM ET - Final thoughts, ways to keep in touch, and good-byes.
+
+     Thank you everyone! Great line up of guests today. 
+
+     Thanks everyone! I've learned a lot today from everyone.
+
+     Thank you! I really enjoyed this format!! keep in touch @daniellecrobins on twitter-You're amazing and sparkly yay! sparkle fingers
+
+    June: we are all gatekeepers when we are educators 
+
+    It's okay to be sparkly and be a badass scientist + a million yesss
+
+    I am following all y'all on twitter now - YES. :)
+
+
+More Questions from audience members
+
+===============================================
+MARK YOUR CALENDARS - UPCOMING MOZILLA EVENTS
+===============================================
+
+UPCOMING COMMUNITY EVENTS!
+Mozilla Curriculum workshop: Live from MozFest! Sunday, October 30 6 AM PT, 9 AM ET, 2 PM UTC
+Mozilla Learning/Mozilla Science Community Call: Thursday, October 13 8am PT / 11 am EST / 4 pm GMT - Continuing Ada Lovelace Day celebrations!
+#TTWchat with @MozLearn & @MozillaScience: October 19 9am PT/ 12pm ET/4pm UTC Hosted by @MozLearn & @MozillaScience
