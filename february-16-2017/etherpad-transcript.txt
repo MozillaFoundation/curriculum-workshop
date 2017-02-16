@@ -1,0 +1,199 @@
+Mozilla  Curriculum Workshop
+
+Privacy & Security
+
+Thursday, February 16th, 2017
+7am PT / 10 am ET / 2 pm UTC
+Air Mozilla: https://air.mozilla.org/mozilla-curriculum-workshop-february-2017-privacy-security/
+
+Please add your name to the box in the upper right ---->
+This makes it easier to join the discussion
+
+Welcome to Etherpad, a synchronized pad for notetaking and collaboration. You can see the call agenda BELOW. Add comments in this window or in the chat on the BOTTOM RIGHT. You can PICK THE COLOR FOR YOUR TEXT and ADD YOUR NAME in the top right. Feel free to jump into the conversation below and add comments/notes wherever you want or ask questions to other participants in the chat. You can also add a +1 next to someone else's comment to show that you "like" it.
+
+LIVE LINK: https://air.mozilla.org/mozilla-curriculum-workshop-february-2017-privacy-security/ <-- JOIN US HERE
+
+Please also add your name and info to the Roll Call below!
+
+Roll Call (Name/ Where are you local / Twitter handle):
+
+    Chad Sansing / Central VA, USA / @chadsansing
+
+     Amira Dhalla/ NYC/ @amirad
+
+     Chad Walker / Twin Cities, MN, USA / @Papa_Shell
+
+     Jonathan Lin / Toronto / @jlin
+
+     Paul Oh / Oakland CA / @poh
+
+     Paul Zenke / Portland, OR / @pfzenke
+
+     Cynthia Lieberman / Los Angeles / @BeCyberwise
+
+     Et
+
+    Stephanie Rozek / Kitchener / @srozek
+
+    June Macdonald / Kitchener, ON Canada/ @junebug
+
+    Vishal Chavan / Nashik, India / @vi5halc
+
+
+10:00 - 10:05 AM ET - Introductions to the show, our on-air participants, and their work.
+
+     Cynthia Lieberman, Co-Founder, Cyberwise, http://www.cyberwise.org/
+
+    Dedicated to teaching kids digital citizenship skills and privacy skills 
+
+     Vishal Chavan, Mozilla Privacy Task Force organizer, https://wiki.mozilla.org/Privacy/Privacy_Task_Force/January_Campaign/2017
+
+    Worked with a team to run Privacy Month Campaign in India in January 
+
+     Chad Walker, Cryptomancer author, https://cryptorpg.com
+
+    Cryptomancer - a table top role playing game about hacking (no IT background needed)
+
+
+10:05 - 10:20 AM ET - Discussion about privacy and security questions.
+
+     What do we all need to learn about privacy and safety on the internet?
+
+     Adults, parents and teachers aren't aware of how to teach kids about the privacy behind the tools that they are using 
+
+    We need to start by opening communications so that kids and adults can connect and share what they are doing
+
+    Start with kids when they're young
+
+     We need to make people care about their privacy first so that they explore and learn 
+
+    Better memes and stories; compelling reasons to engage; act proactively, not just reactively
+
+     To kids, shared knowledge is power; kids may not have maturity to know that sharing, for instance passwords, can be problematic
+
+    We need to teach basic privacy and encryption and networking
+
+    Cyberwise - "No Grownup Left Behind"- CyberCivics
+
+    the power of role playing! take what they know and use that to help them understand new concepts
+
+
+     Where do you see the most need for teaching young people about the privacy and security choices and challenges they face?
+
+      Cyberwise: Cybercivics - middle school p2p learning
+
+    CYBERCIVICS MINI COURSE 
+
+    http://www.cybercivics.com/mini-year-1
+
+     How to analysis media 
+
+     Chad W: how to hack and break stuff
+
+    Amira: How to tell what is real or fake online - super important in this time! How to be secure in this day and age. 
+
+
+
+10:20 - 10:25 AM ET - Let's decide on a project or pick a few favorites that we can prototype together. 
+
+    What are some teaching and learning resources we could make to help young people better understand privacy and security? All ideas welcome; audience, join in! (E.g. apps, kits, games, handbooks)
+
+     Cyberwise has tons of free learning hubs that include lessons, curriculum, news and more on Privacy, Online Security, Reputation Management, Dating App tips and more at ​http://www.cyberwise.org/learning-hubs
+
+    What's something cyberwise hasn't done yet that is an exciting new area for us to explore together? Maybe something in the pipeline?
+
+    Developing tools for the younger digital natives, especially k-5 and managing tools that are age appropriate
+
+     I wonder about small webby arcade games, board games, comics, choose-your-own-adventure-like experiences.That would teach what? (I do think gaming makes it fun!)
+
+    I am drawn to teaching the practicalities of information security and privacy habits - which apps are best? How do I clear my message history? Why does turning off my computer or phone make it more difficult for them to be invaded, privacy-wise?
+
+     Privacy kit for the young activist  (especially something that includes proactive information about doxing and precautions to talk to your friends about *before* something happens that spills over into irl)  Ooo I was thinking about all the young kids attending marches but that is important too! definitely! but I think that I am also optimistic that they will becoming more active and start working in other things as they grow up-- also, in person activism can very much lead to interpersonal bullying over the internet, so they are maybe not totally separate definitely not separate  :) 
+
+     Continue to leverage existing memes, themes, political persuasions, and them remix them in a security/privacy education context. Use other disciplines (poli-sci, epidemiology, etc) as frameworks.
+
+     Hacking/Phishing training and resilience for kids ("with great power comes great responsibility"). More games about IT concepts.
+
+    Creating empathy through privacy (humanizing it) 
+
+    Librarians have good access to teaching privacy among other literacies.  I feel there is are some key challenges around changing curriculum with the adoption cycles of new technology by families... and doing more student centred concepts.  I still think taking an 'all ages approach' is good.. and going via badges not 'courses'.. microskills for new literacies +1
+
+    I would particularly like to see guides that don't assume that parents are allies and that are inclusive of the privacy needs of children who need protection from their parents YES. SO much YES. 
+
+    Separately something for parents that are skeptical, we run into that at times, a parent is not into technology and still sees it as a black hole of time. Maybe something they can do together? 
+
+    Youth need many 'safe adults'  Parents are not THE gatekeeper but understanding when kids become independent learners is excellent - it might required two types of kits 1) for safe adults and 2) for safe kids
+
+    Don't forget though that parents are role models too
+
+    The reason our motto is "No Grownup Left Behind" is to encourage
+
+10:25 - 10:45 AM ET - Sprinting on projects. During this time, we can work below to expand on our favorite ideas for prototypes. We might do the work here or link out to external resources like an online code editor, shared doc, or platform like Scratch. The emphasis is on co-creation and thinking out-loud with one another.
+
+     How about two tracks...
+
+     Games for younger kids that teach IT and privacy and security concepts....
+
+    Playground games that teach...
+
+    Privacy and security?
+
+    Privacy Monster: where a group of kids will be sitting in a group and share one thing with each other. but then, one of them is the one who leaks that info (privacy monster) to the other group. And then kids have to identify who it. Just a rough idea, need improvements :P
+
+    Great title.
+
+    The Web?
+
+    Online dating?
+
+     A privacy kit for the young activist contextualized in protecting relationships and practicing empathy....
+
+    Resources that raise awareness of youth about anti-protesting legislation that affects youth gatherings
+
+    What does it mean to be a dissident? To you? To your government?
+
+    What are the relationships in your network? What do your connections tell outsiders about those people in your network's relationships?
+
+    The below links are opsec for protests/activism
+
+    https://www.patreon.com/posts/opsec-for-part-1-4439427
+
+    http://blog.totallynotmalware.net/?p=160
+
+
+    I think there is particular need to talk about the double edged sword of social media in a way that really respects how central it is to so much organizing but helps people (probably of all ages) understand how to use social media on their own terms and draw boundaries. Agree, and pulling from what Cynthia said earlier there is so much for youth to consider here including their naming and linking. A lot to unpact in the share space on social and web I feel like flow charts/ info graphics might be good for helping people see options in social media, also totally nymrights and really emphasizing ways to have power over one's own identity online
+
+    security for activists that looks at the many layers of surveillance and repercussions and helps people develop a holistic treat analysis that includes not only the state but also schools +1 so much info sent to vendors here, reactionary youth/ adults, and other people or organizations that might lead to negative repercussions for activists and ideally tying this in to corporate surveillance as well
+
+    Security tips for sharing when attending IRL activist events in your community or school 
+
+    A clear presentation, or teaching kit, which should be simple in nature but demonstrates the importance of online privacy (3rd party tracking etc) by giving real life experiences. Done through case studies?I think this could be particularly powerful using case studies from other youth activists and specifically in their own voice. Agreed.  Nice; reminds me of threat assessment exercises.
+
+    Resources to be aware of the privacy risks to relationships captured in social networking and dating sites targeted at youth. This seems like the start of a game or role modeling exercise +1
+
+    Resources that help you balance the need for privacy and protecting relationships with staying in touch with family, loved ones, network members.
+
+    E.g. how to help parents and kids build a trusted network to share, say geo-locations w/o reinforcing expectations of undue surveillance.
+
+     Surfieapp.com is a great parental monioring tool to keep track of kids use - check out more info Find out more parenting safety and monitoring tips at
+
+    http://www.cyberwise.org/single-post/2016/08/15/Keeping-Kids-Safe-Online-Is-An-Olympic-Feat
+
+    https://wiki.mozilla.org/Privacy/Privacy_Task_Force/January_Campaign/2017#Teaching_Kits_and_Online_Resources
+
+
+10:45 - 10:50 AM ET - Sharing prototypes, reflections, and good-byes.
+
+     Cryotoparty!  for teens +1 I feel like a library mash-up with a Harry Potter LARP/Cryptomancer event feel would be neat
+
+    INFOGRAPHIC: Teen Dating Apps that Parents Should know about - http://www.cyberwise.org/dating-apps +1-A 'Should Know' by every parent
+
+    Chad W: "even though I'm a technologist I think technology is boring. But if we can can continue to practice good privacy norms and empathy we can bring it mainstream"
+
+     ONLINE RELATIONSHIPS -nhttp://www.cyberwise.org/safe-online-relationships
+
+    CYBERCIVICS YEAR2 - http://www.cybercivics.com/year-2
+
+     Vishal: Yaay.. #RandomActsOfKindness. Now thats my AHHA! moment :P:)
+
+
